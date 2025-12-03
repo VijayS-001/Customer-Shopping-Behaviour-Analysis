@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+database_connector
+database_connector[sqlalchemy]
+database_connector[psycopg2]
+PowerBI
+mssql
+Dashboards
